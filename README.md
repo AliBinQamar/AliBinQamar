@@ -1,3 +1,7 @@
+# 👨‍💻 Ali Bin Qamar
+
+🚀 **Full-Stack Developer | MERN Stack Enthusiast | Software Engineering Student **
+
 # 💫 About Me:
 I am a BS Software Engineering student with hands-on experience in Full-Stack Development and modern web technologies. I actively work with the MERN Stack, MongoDB databases, and microservices-based architectures while gaining real-world industry exposure through professional work.<br><br>I enjoy building scalable applications, APIs, and modern web platforms, while continuously improving my knowledge of software architecture, automation, and backend systems.<br><br>💡 I like turning ideas into practical software solutions and learning new technologies along the way.
 
